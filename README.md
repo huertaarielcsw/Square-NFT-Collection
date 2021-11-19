@@ -1,11 +1,6 @@
 # buildspace Mint Your Own NFT Collection
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+Programmatically generate a NFT collection, wrote + deployed a smart contract in Solidity, and built a React
+dApp to let users connect their wallets and interact with NFTs as part of the " Build a Web3 App: Mint Your Own NFT collection " project! from buildspace.
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
-3. Start coding!
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CO961ddb5f-f428-4608-9949-a9a2f461eb3f) and link your Discord account so you can get access to helpful channels and your instructor!
+link: https://square-nft-collection.vercel.app/
